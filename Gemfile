@@ -21,6 +21,8 @@ gem 'carrierwave'
 gem 'mini_magick', '4.9.5'
 
 gem 'devise'
+
+gem 'gravtastic'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
